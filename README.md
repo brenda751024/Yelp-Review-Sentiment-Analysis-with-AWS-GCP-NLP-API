@@ -1,0 +1,2 @@
+# Yelp-Review-Sentiment-Analysis-with-AWS-GCP-NLP-API
+In this project, I randomly selected 2,999 reviews from Yelp academic dataset and performed sentiment analysis with GCP and AWS Nature language Processing API. The APIs were used to calculate the sentiment scores from the users’ text feedback. And then I tried to compare the results of sentiment with the users’ stars ratings to see whether there is positive correlation between two columns.
